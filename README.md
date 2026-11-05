@@ -1,5 +1,7 @@
 # Decision Trees for Fraud Detection
 
+**Coursework · Semester 6 · COMP2611 Artificial Intelligence · CW2 (course-provided scaffold)**
+
 决策树分类课程实现：缺失值过滤、分层划分、剪枝与特征选择。
 
 A scikit-learn coursework implementation covering CSV loading, removal of rows containing a `-99` sentinel, coefficient-of-variation statistics, stratified train/test splitting, decision-tree training, accuracy/recall, tree depth and cost-complexity pruning experiments.
